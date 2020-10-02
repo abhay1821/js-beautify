@@ -1,3 +1,4 @@
+GETTING STARTED
 # JS Beautifier
 [![Build Status](https://dev.azure.com/beautifier-io/js-beautify/_apis/build/status/beautify-web.js-beautify)](https://dev.azure.com/beautifier-io/js-beautify/_build/latest?definitionId=1)
 
